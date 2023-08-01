@@ -39,7 +39,7 @@ const Register = () => {
       }
     };
   return (
-    <Layout title="SignUp ECommerce-App">
+    <Layout title="SignUp ">
     
         
         <div className='form-container'>
